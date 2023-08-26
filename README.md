@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yaomingshuai
+- 👋 Hi, I’m @msYao
 - 👀 I’m interested in cv
 - 🌱 I’m currently learning few-shot font generation
 - 💞️ I’m looking to collaborate on ...
