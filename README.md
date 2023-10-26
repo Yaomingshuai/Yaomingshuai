@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MingshuaiYao
 - 👀 I’m interested in cv
-- 🌱 I’m currently learning Text2Video
+- 🌱 I’m currently learning video-diffusion models
 - 📫 How to reach me : ymsoyosmy@gmail.com
 
 <!---
